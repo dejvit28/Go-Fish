@@ -1,0 +1,10 @@
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\bin\Debug\GoFish 19.10.2023.exe.config
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\bin\Debug\GoFish 19.10.2023.exe
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\bin\Debug\GoFish 19.10.2023.pdb
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish 19.10.2023.csproj.AssemblyReference.cache
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish_19._10._2023.Form1.resources
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish_19._10._2023.Properties.Resources.resources
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish 19.10.2023.csproj.GenerateResource.cache
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish 19.10.2023.csproj.CoreCompileInputs.cache
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish 19.10.2023.exe
+C:\Users\Dejvi\Desktop\Programiranje2 C#\GoFish 19.10.2023\GoFish 19.10.2023\obj\Debug\GoFish 19.10.2023.pdb
